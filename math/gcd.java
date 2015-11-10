@@ -2,6 +2,7 @@ import java.util.*;
 
 public class gcd
 {
+    //
     public static void main(String[] args)
     {
         System.out.println(gcd(32,3));
